@@ -1,4 +1,4 @@
 # who-is-that-pokemon
 
-![REC-20230118102354](https://user-images.githubusercontent.com/84021391/213244758-4468899f-84d4-4e89-8d68-80717e1866d0.gif)
 
+![REC-20230118102354 (1)](https://user-images.githubusercontent.com/84021391/213245117-c84e6dfb-2068-4acf-848f-4924cd8dc855.gif)
